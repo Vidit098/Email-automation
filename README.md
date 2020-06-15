@@ -15,4 +15,4 @@ Automatically genrate different emails after passing required information
   
     •	then import rest of the packages written in code from pip
   
-4.Then run the _init_.py file 
+ 4.Then run the _init_.py file 
