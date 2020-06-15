@@ -1,0 +1,89 @@
+
+# Blog
+{
+    "sub" : "Blog",
+    "rname" : "Vidit",
+    "tp" : "15 June 2020",
+    "link" : "www.localhsot.com/blogs",
+    "aut" : "Local Host",
+    "firstpa" : "This is the starting on my blog.",
+    "pblog" : "Blog post 1, Blog post 2, Blog post 3",
+    "freq" : "1",
+    "blgtle" : "2",
+    "sname" : "Anuj"
+}
+#Anual Leave
+{
+    "rname" : "Vidit",
+    "tp" : "12 June 2020 to 12 August ",
+    "nod" : "2 Months",
+    "sname" : "Anuj"
+}
+#Deliverable
+{
+    "rname" : "Vidit",
+    "change1" : "Updated Features",
+    "change2" : "Bugs Fixed",
+    "Checked_Change" : "upgrade to version 2.5",
+    "Change_included" : "updated icon",
+    "sname" : "Anuj"
+}
+#Deliverable Sent
+{
+    "rname" : "Vidit",
+    "sname" : "Anuj"
+}
+#Farewell
+{
+    "comp" : "XYZ pvt. ltd.",
+    "email" : "localhost09@gmail.com",
+    "lkd" : "https://in.linkedin.com/in/LOCALHOST",
+    "con" : "9999999999"
+}
+#leave
+{
+    "rname" : "Vidit",
+    "leavedate" : "12 June 2020",
+    "name1" : "Ashish",
+    "email" : "ashish@company.com",
+    "bfunc1" : "Client Meeting",
+    "bfunc2" : "New Product Update",
+    "bfunc3" : "Tenchinal Issues",
+    "name2" : "Kartikey",
+    "bemail" : "Kartikey@comapny.com",
+    "conn" : "9999999999",
+    "sname" : "Anuj"
+}
+#resignation
+{
+    "mname" : "Vidit",
+    "des" : "Manager",
+    "comp" : "XYZ pvt. ltd."
+}
+#sick leave1
+{
+    "rname" : "Vidit",
+    "sname" : "Anuj"
+}
+#sick leave2
+{
+    "rname" : "Vidit",
+    "sname" : "Anuj"
+}
+#sick leave3
+{
+    "rname" : "Vidit",
+    "sname" : "Anuj"
+}
+#up coming Event
+{
+    "rname" : "Vidit",
+    "cname" : "XYZ pvt ltd.",
+    "ename" : "Workshop on Flask",
+    "descp" : "Python flask fundamentals and advance",
+    "loc" : "Dehradun",
+    "ddt" : "15 June 2020",
+    "tm" : "12 PM onwards",
+    "link" : "www.localhost.com/events",
+    "sname" : "Anuj"
+}
