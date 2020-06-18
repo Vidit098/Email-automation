@@ -16,14 +16,14 @@ Automatically genrate different emails after passing required information.There 
     •	then import rest of the packages written in _init_.py which includes:-
     
         from flask import Flask, jsonify, request
-        
+          sudo code -pip install flask
 
         from pymongo import MongoClient
           sudo code - pip install pymongo
         from flask_script import Manager, Command, Shell
-
+          sudo code- pip install flask-script
         from flask_mail import Mail, Message
-
+          sudo code - pip install flask-mail
         import nltk
           sudo code - pip install -U nltk
         from nltk.corpus import state_union
@@ -36,7 +36,7 @@ Automatically genrate different emails after passing required information.There 
         from tenseflow import change_tense
 
         from win10toast import ToastNotifier
-
+          pip install - pip install pymongo
         import time
     
   
