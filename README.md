@@ -13,7 +13,18 @@ Automatically genrate different emails after passing required information.There 
   
     •	python -m spacy download en_core_web_sm
   
-    •	then import rest of the packages written in _init_.py which includes
+    •	then import rest of the packages written in _init_.py which includes:-
+    from flask import Flask, jsonify, request
+from pymongo import MongoClient
+from flask_script import Manager, Command, Shell
+from flask_mail import Mail, Message
+import nltk
+from nltk.corpus import state_union
+from nltk.tokenize import PunktSentenceTokenizer
+from nltk import word_tokenize, pos_tag
+from tenseflow import change_tense
+from win10toast import ToastNotifier
+import time
     
   
  4.Then run the _init_.py file 
