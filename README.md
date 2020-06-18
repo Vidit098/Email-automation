@@ -28,7 +28,7 @@ Automatically genrate different emails after passing required information.There 
           sudo code - pip install -U nltk
         from nltk.corpus import state_union
           import nltk
-	       nltk.download()
+	      nltk.download()
         from nltk.tokenize import PunktSentenceTokenizer
 
         from nltk import word_tokenize, pos_tag
