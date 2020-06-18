@@ -41,3 +41,9 @@ Automatically genrate different emails after passing required information.There 
     
   
   4.Then run the _init_.py file 
+ 
+ For more information go to developer documentation of this project  mailautomation (1).pdf
+ 
+ REFERENCE:- https://pythonprogramming.net/part-of-speech-tagging-nltk-tutorial/
+ 	      
+REFERENCE:-  https://github.com/bendichter/tenseflow	
