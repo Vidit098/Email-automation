@@ -1,5 +1,5 @@
 # Email-automation
-Automatically genrate different emails after passing required information
+Automatically genrate different emails after passing required information.There are various kind of email in this project like sick leave , follow up letter etc. and to send that email user donot have to write full email else he have to pass just the required information as asked in the code and rest the body formation grammer etc is automatically done .
 # Guidelines
 1.	Install tensflow from github link:- https://github.com/bendichter/tenseflow
 2.	Python 2.7 or 3.6 is mandatory
@@ -13,6 +13,7 @@ Automatically genrate different emails after passing required information
   
     •	python -m spacy download en_core_web_sm
   
-    •	then import rest of the packages written in code from pip
+    •	then import rest of the packages written in _init_.py which includes
+    
   
  4.Then run the _init_.py file 
