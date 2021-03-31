@@ -25,7 +25,7 @@ jaraco.functools==3.0.1
 jaraco.text==3.2.0
 Jinja2==2.11.2
 joblib==0.15.1
-lxml==4.5.1
+lxml==4.6.3
 MarkupSafe==1.1.1
 more-itertools==8.4.0
 murmurhash==1.0.2
