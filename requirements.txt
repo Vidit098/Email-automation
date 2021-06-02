@@ -56,7 +56,7 @@ tempora==3.0.0
 tenseflow @ git+https://github.com/bendichter/tenseflow@070175f7310e406feab42fe2db59b56552ff9cc6
 thinc==7.4.1
 tqdm==4.46.1
-urllib3==1.25.9
+urllib3==1.26.5
 wasabi==0.7.0
 Werkzeug==1.0.1
 win10toast==0.9
