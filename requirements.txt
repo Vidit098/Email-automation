@@ -31,7 +31,7 @@ more-itertools==8.4.0
 murmurhash==1.0.2
 mysqlclient==1.4.6
 nltk==3.5
-numpy==1.19.0
+numpy==1.22.0
 Pattern==3.6
 pdfminer.six==20200517
 plac==1.1.3
